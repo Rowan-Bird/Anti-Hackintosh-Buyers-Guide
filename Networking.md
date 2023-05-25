@@ -30,3 +30,4 @@ The issues come in when you either involve onboard server NICs or dedicated hard
 * HP Server NICs (including both 1Gbe and 10Gbe, generally rebranded Qlogic)
 * Dell Server NICs (including both 1Gbe and 10Gbe, generally rebranded Broadcom or Intel)
 * Mellanox NICs
+* Broadcom BCM5721 NICs (excluding BCM5722D and a number of other models, the 5721 simply lacks a driver)
